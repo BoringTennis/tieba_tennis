@@ -5,6 +5,7 @@ import requests
 import sys
 
 # get all matches info
+# 把这里的数字换成球员在官网的对应ID即可
 idstr = '4844'
 # year = [i for i in range(1993,1999)]
 # year.extend([i for i in range(2000,2010)])
